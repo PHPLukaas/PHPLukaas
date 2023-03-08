@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/LukasVls_" target="blank"><img src="https://img.shields.io/twitter/follow/LukasVls_?logo=twitter&style=for-the-badge" alt="LukasVls_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://phplukaas.com](https://phplukaas.com)
+- 👨‍💻 All of my projects are available at [https://lukasvalois.fr](https://lukasvalois.fr)
 
 - ⚡ Fun fact **J'adore les sushis**
 
